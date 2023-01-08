@@ -1,1 +1,7 @@
-This is new file
+This is new file //developer 1 (header)
+
+//developer 2 (testimonials)
+
+//developer 3 (footer)
+
+This is new
